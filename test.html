@@ -1,0 +1,51 @@
+<html>
+<head>
+  <!--link rel="stylesheet" type="text/css" href="css/brads.css" id="pagesheet"/!-->
+<style>
+#box{
+    position: relative;
+    overflow: hidden;
+    background-color: blue;
+    width: 1000px;
+    height: 1000px;
+
+}
+
+#box:hover #hidden{
+
+    left: 0px;
+}
+
+#box #hidden {
+   background: yellow;
+    height: 300px;
+    position: absolute;
+    top: 0;
+    left: -500px;
+    width: 500px;
+    opacity: 1;
+    -webkit-transition: all 0.7s ease-out;
+       -moz-transition: all 0.7s ease-out;
+        -ms-transition: all 0.7s ease-out;
+         -o-transition: all 0.7s ease-out;
+            transition: all 0.7s ease-out;
+}
+
+</style>
+</head>
+<body>
+    <!--div id="brad_test" class="move_left2">HEY ITS ME</div>
+    <div id="brad_mover" class="moveit">HOVER ME</div!-->
+
+
+<div id="box">
+
+
+        <div id="hidden"></div>
+
+</div>
+
+
+
+</body>
+</html>

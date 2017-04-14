@@ -1,0 +1,95 @@
+/**
+
+CONTACT ID == #u543
+	has .move_form
+
+FORM ID   == #u1680
+	has .move_left
+
+FORM has class .move-left on it
+
+**/
+
+/**
+
+EVERY WIDGE TIN HAS ITT!!!!
+
+**/
+
+
+/*
+JS resizing notes:
+
+JS uses temp_no_id
+
+data-orig-id="u543"
+
+<div class="clearfix grpelem temp_no_id" data-orig-id="u1680">
+lie 140
+;
+*/
+
+#brad:hover #u1680{
+    left: 80%;
+}
+
+#brad #u1680 {
+left: 101%;
+background-color: black;
+top: 26%;
+margin-right: 0px;
+position: fixed;
+margin-top: 0px;
+
+    -webkit-transition: all 0.7s ease-out;
+       -moz-transition: all 0.7s ease-out;
+        -ms-transition: all 0.7s ease-out;
+         -o-transition: all 0.7s ease-out;
+            transition: all 0.7s ease-out;
+}
+
+
+
+
+
+
+body #u1616 {
+    margin-right: auto;
+    width: initial;
+}
+
+body #u1680 {
+	/**
+	Use fixed or relative??
+	margin-right not needed??
+
+	ALSO u1616 is over it or sets a huge margin right??
+	u1616 is in u1680
+	**/
+}
+
+
+
+#page #u543 {
+	top: 50%;
+	right: 10%;
+}
+
+
+#page #u1049 {
+	top: 10%;
+	left: 4%;
+}
+
+/** NOTE CONTACT FORM DOSENT WORK WITHOUT THIS **/
+
+/**
+#bp_infinity #page {
+	max-width: none;
+}
+
+#bp_infinity #u118_align_to_page {
+	max-width: none;
+	width: 65%;
+}
+**/
