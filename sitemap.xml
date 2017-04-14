@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://moonshotcreative.com/index.html</loc>
+    <lastmod>2017-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://moonshotcreative.com/images/pasted-svg-985447x118.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://moonshotcreative.com/images/pasted-svg-441179x32.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://moonshotcreative.com/images/pasted-svg-3299213x202.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://moonshotcreative.com/images/pasted-svg-2024988x701.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://moonshotcreative.com/images/pasted-svg-504029x504.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://moonshotcreative.com/images/pasted-svg-566404x67.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://moonshotcreative.com/work.html</loc>
+    <lastmod>2017-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonshotcreative.com/about.html</loc>
+    <lastmod>2017-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonshotcreative.com/assets/background-points.mulib</loc>
+    <lastmod>2016-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
